@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cal-react/static/css/main.07e4ffa5.chunk.css",
+    "main.js": "/cal-react/static/js/main.d3da4b1e.chunk.js",
+    "main.js.map": "/cal-react/static/js/main.d3da4b1e.chunk.js.map",
+    "runtime~main.js": "/cal-react/static/js/runtime~main.a8fe408b.js",
+    "runtime~main.js.map": "/cal-react/static/js/runtime~main.a8fe408b.js.map",
+    "static/js/2.46b72190.chunk.js": "/cal-react/static/js/2.46b72190.chunk.js",
+    "static/js/2.46b72190.chunk.js.map": "/cal-react/static/js/2.46b72190.chunk.js.map",
+    "index.html": "/cal-react/index.html",
+    "precache-manifest.7a1ed5c027873a488ead8219919761a2.js": "/cal-react/precache-manifest.7a1ed5c027873a488ead8219919761a2.js",
+    "service-worker.js": "/cal-react/service-worker.js",
+    "static/css/main.07e4ffa5.chunk.css.map": "/cal-react/static/css/main.07e4ffa5.chunk.css.map",
+    "static/media/styles.css": "/cal-react/static/media/panton-lightcaps-webfont.f0ed5862.woff"
+  }
+}
